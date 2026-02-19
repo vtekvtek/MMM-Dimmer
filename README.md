@@ -1,4 +1,5 @@
 # MMM-Dimmer
+THIS IS A WORK IN PROGRESS!!! DO NOT USE THIS MODULE!!!
 
 A MagicMirror module that dims the screen using:
 1) a fullscreen black overlay (opacity), and
@@ -14,7 +15,7 @@ Clone into your MagicMirror `modules` folder:
 - `modules/MMM-Dimmer`
 
 ## Config example
-
+```js
 {
   module: "MMM-Dimmer",
   position: "fullscreen_above",
@@ -35,3 +36,4 @@ Clone into your MagicMirror `modules` folder:
     }
   }
 }
+```
